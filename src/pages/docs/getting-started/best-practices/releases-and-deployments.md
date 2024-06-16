@@ -54,7 +54,7 @@ However, you cannot change the following in the release snapshot:
 - Channel
 - Deployment Process
 
-Never to modify a release unless it is absolutely necessary.  A release represents a snapshot in time, and it should be the same when deploying to the different stages or environments in your pipeline.  Changing it after the fact can lead to unpredictable results.  
+Avoid modifying a release unless absolutely necessary.  A release represents a snapshot in time, and it should be the same when deploying to the different stages or environments in your pipeline.  Changing it after the fact can lead to unpredictable results.  
 
 ## Deploying a release
 
